@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<title>stakannn</title>
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		 <style>
+			.fig {
+			text-align: center;
+			}
+			.type {
+			text-align: left
+			}
+			.right {
+			text-align: right
+			}
+		</style>
+	</head>
+		<body style="background-color:white">
+			<br style="background-color:#FFDAB9">
+			<br style="background-color:#FFDAB9">
+			<br style="background-color:#FFDAB9">
+				<p class="fig"> <font size=10><b>Александрова Анна Антоновна</b></font size=10></p>
+				<p class="fig"> <font size=5><i>stakannn</i></font size=5></p>	
+					<div class="container"> 
+						<div class="navbar-header"> 
+							<a href="https://www.hse.ru/ba/ling" class="navbar-brand">Фундаментальная и компьютерная лингвистика</a> 
+						</div> 
+						<div class="navbar-header">
+							<a href="https://vk.com/hse_fipl2019" class="navbar-brand" style="right">Сообщество ФиКЛ'19 в VK</a>
+						</div>
+								<div class="navbar-header">
+							<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+						</div> 
+						<div class="navbar-header">
+							<a href="https://vk.com/annaaladin" class="navbar-brand">VK</a> 
+						</div> 
+						<div class="navbar-header">
+							<a href="https://www.instagram.com/stakannn/?hl=ru" class="navbar-brand">Instagram</a> 
+						</div> 
+					</div>
+		<br>
+			<div class="container"><font size=6>
+				<div class="col-md-5">
+					<article>
+						<p class="type"> <img align="left" height=505 width=370 src="https://github.com/stakannn/personalpage/blob/master/37.jpg?raw=true" /> </p>
+					</article>
+				</div>
+				<div class="col-md-4">	
+					<article><br>
+						<h3><font size=6>Место учебы</font size=6></h2>
+						<p><font size=4>ФГН НИУ ВШЭ<font size=4></p>
+					</article><br>
+					<article>
+						<h3><font size=6>Увлечения</font size=6></h2>
+						<p>Изучение языков<br><br>Творчество В. В. Маяковского<br><br>Кулинария<br><br>Язык и культура Италии</p>
+					</article>
+				</div><br><br><br>
+				<div class="col-md-3">
+					<article>
+						<h3><font size=6>Факты обо мне:</font size=6></h2>
+						<p>Мечтаю посетить Индию и искупаться в озере Байкал<br><br>Не пью чай и кофе<br><br>Боюсь собак и кошек</p>
+					</article>
+				</div>
+			</div></font size=6>
+			<br>
+	<footer> 
+			<p class="fig"><img src="https://www.hse.ru/data/2012/01/19/1263884310/logo_%D1%81_hse_black_e.png" width="60" height="75"/></p>
+			<p style="text-align:center;"><font size=2>М о с к в а,   2 0 1 9</p> 
+	</footer>
+	</body>
+</html>  
